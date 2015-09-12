@@ -1,1 +1,1 @@
-DirectoryIndex ./master/page.html
+ErrorDocument 404 https://whysoidle.github.io/master/page.html
